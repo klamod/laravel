@@ -26,7 +26,7 @@ class PostController extends Controller
     {
         $request->validate([
             'title' => 'required|max:255'
-            'title' => 'required|max:255'lo[lop[o[kpop-]]]
+            'title' => 'required|max:255'
         ])
     }
 
